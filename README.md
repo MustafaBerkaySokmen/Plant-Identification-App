@@ -2,13 +2,14 @@
 
 ## Overview
 The **Plant Identification App** is a Flutter-based mobile application that uses the device camera and an API to identify plants from images. The app captures an image of a plant's organ (e.g., leaf) and sends it to the PlantNet API for identification, returning the scientific name of the plant.
-![Description of the image](plantn.PNG)
 
 ## Features
 - Captures images using the device camera.
 - Sends images to the PlantNet API for plant identification.
 - Displays the scientific name of the identified plant.
 - Handles errors and provides feedback if identification fails.
+
+![Description of the image](plantn.PNG)
 
 ## Installation
 To run this project, ensure you have the following installed:
